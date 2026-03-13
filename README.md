@@ -12,7 +12,7 @@ snakes ladders game using JavaScript and Gsap
 
 ## Live link
 
-https://peter-kimanzi.github.io/snakes-ladders-game/
+https://github.com/navneetdevmishra/Snake-game-
 
 
 ## Screenshot
