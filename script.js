@@ -10,7 +10,7 @@ let width = 500;
 let gridSize = 50;
 let gridMid = 25;
 let walking, walkSpeed = 450;
-let locked = false;
+let locked =false;
 let slideSpeed = .5;
 let rolled = '', rolling, rollCount, rollMax, rollSpeed=85;
 
